@@ -5,12 +5,12 @@ Advanced References
 -------------------
 
 .. toctree::
-   :maxdepth: 10
+   :maxdepth: 5
 
-    WESTPA                    <test/modules>
-    WESTPA tools              <test/westpa.cli.tools>
-    WESTPA work manager       <test/westpa.work_managers>
-    WESTPA extensions         <users_guide/westext>
+    WESTPA                    <test/westpa.cli.core>
+    WESTPA tools              <test/modules>
+    WESTPA work manager       <users_guide/wwmgr>
+    WESTPA extensions         <users_guide/westpaext>
     Command line tool index   <users_guide/command_line_tools>
     HDF5 file structure       <users_guide/hdf5>
 
